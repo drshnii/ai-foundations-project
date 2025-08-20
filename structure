@@ -1,0 +1,6 @@
+ai-research-assistant/     # Your main project folder
+├── src/                   # Folder for your source code
+│   └── research_assistant.py
+├── requirements.txt       # File listing all dependencies
+├── .gitignore            # Tells Git what files to ignore (CRITICAL)
+└── README.md             # Your project's homepage
